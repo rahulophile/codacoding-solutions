@@ -1,4 +1,56 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# CodaCoding Solutions - Coming Soon
+
+Professional minimal "Coming Soon" landing page built with Next.js 14, TypeScript, and Framer Motion.
+
+## 🚀 Quick Start
+
+```bash
+npm install
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000)
+
+## 📦 Build for Production
+
+```bash
+npm run build
+npm start
+```
+
+## 🌐 Deploy to codacoding.dev
+
+### Vercel (Recommended)
+1. Push to GitHub
+2. Import to [vercel.com](https://vercel.com)
+3. Add domain: `codacoding.dev`
+4. Deploy
+
+### Post-Deployment
+1. Add to [Google Search Console](https://search.google.com/search-console)
+2. Submit sitemap: `https://codacoding.dev/sitemap.xml`
+3. Request indexing
+
+## 🎨 Features
+
+- ✅ Minimal professional design
+- ✅ Step-up graph animation (85% completion)
+- ✅ Infinite social media marquee
+- ✅ Fully responsive
+- ✅ SEO optimized
+- ✅ Auto-generated sitemap
+
+## 📱 Social Media
+
+- LinkedIn: [@codacoding](https://linkedin.com/company/codacoding)
+- Instagram: [@codacoding.dev](https://instagram.com/codacoding.dev)
+- X: [@codacodingdev](https://x.com/codacodingdev)
+
+---
+
+© 2025 CodaCoding Solutions
+
+
 
 ## Getting Started
 
